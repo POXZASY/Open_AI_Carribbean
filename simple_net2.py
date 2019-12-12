@@ -1,6 +1,7 @@
 #https://www.tensorflow.org/tutorials/images/classification
 #https://www.tensorflow.org/tutorials/images/cnn
 #https://stackoverflow.com/questions/42443936/keras-split-train-test-set-when-using-imagedatagenerator?answertab=votes#tab-top
+
 from __future__ import absolute_import, division, print_function, unicode_literals
 import tensorflow as tf
 

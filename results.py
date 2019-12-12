@@ -9,8 +9,8 @@ from pathlib import Path
 
 labels = ["concrete_cement", "healthy_metal", "incomplete", "irregular_metal", "other"]
 
-IMG_WIDTH = 128
-IMG_HEIGHT = 128
+IMG_WIDTH = 224
+IMG_HEIGHT = 224
 
 #load in the model
 model = load_model('model.h5')
